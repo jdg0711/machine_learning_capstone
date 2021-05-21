@@ -1,7 +1,7 @@
 # Making Predictions with Dating Profile Data
 ## A codecademy Machine Learning Capstone Project
 
-<img src="./images/codecademy_logo.png" width="400" alt="codecademy logo">
+<img src="./images/codecademy_logo.png" width="300" height="100" alt="codecademy logo">
 
 **Objective:** The purpose of this capstone project is to practice formulating questions and implementing Machine Learning techniques to answer those questions.
 
@@ -20,6 +20,6 @@ Programming languages and libraries used:
 - matplotlib
 - seaborn
 
-![education plot](./images/education_pie.png)
+![education plot](./images/education.png)
 
 It may be easier to view the code by copying/pasting the url for the .ipynb [file](Capstone_Project_Final.ipynb) into [nbviewer](https://nbviewer.jupyter.org/).
