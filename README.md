@@ -21,5 +21,8 @@ Programming languages and libraries used:
 - seaborn
 
 ![education plot](./images/education.png)
+<br>
 
-It may be easier to view the code by copying/pasting the url for the .ipynb [file](Capstone_Project_Final.ipynb) into [nbviewer](https://nbviewer.jupyter.org/).
+View the project notebook for all of the code [CTRL + click here](https://nbviewer.org/github/jdgimlin/machine_learning_capstone/blob/main/Capstone_Project_Final.ipynb)
+<br>
+View the presentation file with analysis here [CTRL + click here](https://github.com/jdgimlin/machine_learning_capstone/blob/main/ML_Capstone_Presentation.pdf)
